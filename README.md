@@ -1,2 +1,3 @@
-# opus-keyhive-vial-firmware
-Keyhive Opus Vial Firmware
+# Keyhive Opus Vial Firmware
+
+Firmware created by smokrkor 
